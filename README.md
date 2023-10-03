@@ -2,9 +2,6 @@
 - 👀 I’m interested in Big Data, Machine Learning, Advance statistics...
 - 🌱 I’m currently learning Machine learnig
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me deepankarpawar11@gmail.com
 
-<!---
-DeepankarBigData/DeepankarBigData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
