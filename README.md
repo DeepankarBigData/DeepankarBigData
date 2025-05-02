@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ## 🚀 About Me
 
-- 🎓 **Background**: INSERT YOUR EDUCATION/DEGREE – e.g., B.Tech in Mechanical Engineering, PG Diploma in Data Science
+- 🎓 **Background**:  B.Tech in Mechanical Engineering, PG Diploma in Data Science
 - 🧠 **Core Skills**: RAG, Machine Learning, Deep Learning, Data Engineering, NLP, Generative AI.
 - ☁️ **Cloud & Tools**: Azure, AWS, TensorFlow, PyTorch, MLflow
 - 💼 **Experience**: 2+ years in building AI pipelines in production environments
