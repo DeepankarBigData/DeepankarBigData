@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name] – AI Enthusiast & Data Professional
+# 👋 Hi there, I'm Deepanakar Pawar – AI Engineer & Data Professional
 
 Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and scalable AI solutions. With a strong foundation in machine learning, data engineering, and cloud technologies, I'm actively seeking opportunities in the **AI/ML space** where I can contribute to cutting-edge innovation and solve real-world problems.
 
@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ## 🚀 About Me
 
-- 🎓 **Background**: [INSERT YOUR EDUCATION/DEGREE – e.g., B.Tech in Computer Science, M.Sc. in Data Science]
-- 🧠 **Core Skills**: Machine Learning, Deep Learning, Data Engineering, NLP, Generative AI
-- ☁️ **Cloud & Tools**: [INSERT CLOUD & TOOLS – e.g., Azure, AWS, GCP, TensorFlow, PyTorch, MLflow]
-- 💼 **Experience**: [INSERT CURRENT/PREVIOUS ROLES – e.g., 2+ years in building AI pipelines in production environments]
-- 📜 **Certifications**: [INSERT RELEVANT CERTS – e.g., Azure AI Engineer Associate, Google ML Professional]
+- 🎓 **Background**: [INSERT YOUR EDUCATION/DEGREE – e.g., B.Tech in Mechanical Engineering, PG Diploma in Data Science]
+- 🧠 **Core Skills**: RAG, Machine Learning, Deep Learning, Data Engineering, NLP, Generative AI.
+- ☁️ **Cloud & Tools**: Azure, AWS, TensorFlow, PyTorch, MLflow
+- 💼 **Experience**: [2+ years in building AI pipelines in production environments]
+- 📜 **Certifications**: [Azure AI Engineer Associate]
 
 ---
 
