@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ## 🚀 About Me
 
-- 🎓 **Background**: [INSERT YOUR EDUCATION/DEGREE – e.g., B.Tech in Mechanical Engineering, PG Diploma in Data Science]
+- 🎓 **Background**: INSERT YOUR EDUCATION/DEGREE – e.g., B.Tech in Mechanical Engineering, PG Diploma in Data Science
 - 🧠 **Core Skills**: RAG, Machine Learning, Deep Learning, Data Engineering, NLP, Generative AI.
 - ☁️ **Cloud & Tools**: Azure, AWS, TensorFlow, PyTorch, MLflow
-- 💼 **Experience**: [2+ years in building AI pipelines in production environments]
-- 📜 **Certifications**: [Azure AI Engineer Associate]
+- 💼 **Experience**: 2+ years in building AI pipelines in production environments
+- 📜 **Certifications**: Azure AI Engineer Associate
 
 ---
 
@@ -60,11 +60,12 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ## 🤝 Let's Connect
 
-📬 **Email**: [INSERT YOUR EMAIL]  
-🔗 **LinkedIn**: [INSERT LINKEDIN LINK]  
-🌐 **Portfolio/Blog**: [INSERT IF ANY]
+📬 **Email**: deepankarpawar215@gmail.com 
+🔗 **LinkedIn**: https://www.linkedin.com/in/deepankar98datascience/
+🌐 **Portfolio/Blog**: https://serene-gelato-3e204a.netlify.app/
 
 ---
+
 
 ⭐ _If you like my work, feel free to follow or connect with me! I'm open to freelance, full-time, or collaborative opportunities in the AI/ML domain._
 
