@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ## 📂 Featured Projects
 
-### 🔍 [Project Name – e.g., Fraud Detection Using ML]
+### Pipeline End time Prediction using ML
 - **Description**: [INSERT SHORT DESC – e.g., Built an end-to-end pipeline to detect financial fraud with 92% accuracy]
 - **Tech Stack**: [INSERT – e.g., Python, scikit-learn, Spark, Azure ML]
 - **Repo**: [LINK]
