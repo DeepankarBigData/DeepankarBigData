@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 ## 📂 Featured Projects
 
 ### Pipeline End time Prediction using ML
-- **Description**:  Built an end-to-end pipeline to detect pipeline competion hours or mins with 89% accuracy
+- **Description**:  Built an end-to-end pipeline to detect pipeline completion in hours or mins with 89% accuracy
 - **Tech Stack**: Python, scikit-learn, Spark, Azure ML
 - **Repo**: 
 
