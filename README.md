@@ -37,14 +37,8 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 - **Tech Stack**: Python, scikit-learn, Spark, Azure ML
 - **Repo**: 
 
-### 💬 [Project Name – e.g., Chatbot with GPT-4 Integration]
-- **Description**: [INSERT DESC – e.g., Developed a customer service chatbot using OpenAI APIs and LangChain]
-- **Tech Stack**: [INSERT – e.g., Python, Streamlit, OpenAI, FastAPI]
-- **Repo**: [LINK]
 
 👉 _You can explore all my projects [here](https://github.com/your-username?tab=repositories)._  
-
----
 
 ## 📈 Why You Should Hire Me
 
