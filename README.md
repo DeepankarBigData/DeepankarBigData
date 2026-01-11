@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 **Background** -    B.Tech in Mechanical Engineering, PG Diploma in Data Science
 - 🧠 **Core Skills** -   RAG, Machine Learning, Deep Learning, Data Engineering, NLP, Generative AI.
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ---
 
-## 💡 My Focus Areas
+##  My Focus Areas
 
 - 🤖 **Machine Learning Engineering**  
   Building robust ML pipelines, from data preprocessing to model deployment.
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### Pipeline End time Prediction using ML
 - **Description**:  Built an end-to-end pipeline to detect pipeline completion in hours or mins with 89% accuracy
@@ -38,9 +38,9 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 - **Repo**: 
 
 
-👉 _You can explore all my projects [here](https://github.com/your-username?tab=repositories)._  
+ _You can explore all my projects [here](https://github.com/your-username?tab=repositories)._  
 
-## 📈 Why You Should Hire Me
+##  Why You Should Hire Me
 
 ✅ **Real-World Experience**: I've built production-grade AI systems under tight deadlines and evolving data.
 
