@@ -54,7 +54,7 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ## 🤝 Let's Connect
 
-📬 **Email**: deepankarpawar215@gmail.com 
+📬 **Email**: deepankarpawar669@gmail.com 
 🔗 **LinkedIn**: https://www.linkedin.com/in/deepankar98datascience/
 🌐 **Portfolio/Blog**: https://serene-gelato-3e204a.netlify.app/
 
