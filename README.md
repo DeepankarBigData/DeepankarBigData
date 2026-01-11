@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 📬 **Email**: deepankarpawar669@gmail.com 
 🔗 **LinkedIn**: https://www.linkedin.com/in/deepankar98datascience/
@@ -61,6 +61,6 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 ---
 
 
-⭐ _If you like my work, feel free to follow or connect with me! I'm open to freelance, full-time, or collaborative opportunities in the AI/ML domain._
+ _If you like my work, feel free to follow or connect with me! I'm open to freelance, full-time, or collaborative opportunities in the AI/ML domain._
 
 
