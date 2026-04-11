@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 📬 **Email**: deepankarpawar669@gmail.com 
 🔗 **LinkedIn**: https://www.linkedin.com/in/deepankar98datascience/
 🌐 **Portfolio/Blog**: https://deepankaraiml.netlify.app
+    **Youtube**: https://youtube.com/@deepankaraiml?si=d9vWhL7q3u15kv72
 
 ---
 
