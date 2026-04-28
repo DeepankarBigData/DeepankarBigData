@@ -6,32 +6,32 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 
 ## About Me
 
-- 🎓 **Background** - MBA Finance, PG Diploma in Data Science, B.Tech in Mechanical Engineering
-- 🧠 **Core Skills** -   RAG, Multi-agent, Machine Learning, Deep Learning, Data Engineering, NLP, Generative AI.
-- ☁️ **Cloud & Tools** - Azure
-- 💼 **Experience** -    2.5 years in building AI pipelines in production environments
-- 📜 **Certifications** - Azure AI Engineer Associate
+-  **Background** - MBA Finance, PG Diploma in Data Science, B.Tech in Mechanical Engineering
+-  **Core Skills** -   RAG, Multi-agent, Machine Learning, Deep Learning, Data Engineering, NLP, Generative AI.
+-  **Cloud & Tools** - Azure
+-  **Experience** -    2.5 years in building AI pipelines in production environments
+-  **Certifications** - Azure AI Engineer Associate
 
 ---
 
 ##  My Focus Areas
 
-- 🤖 **AI Engineering and Development**  
+- **AI Engineering and Development**  
   Building robust AL pipelines, finetuning LLM's, Developing Multi-agent systems.
 
-- 🧠 **Deep Learning & Computer Vision**  
+- **Deep Learning & Computer Vision**  
   Working with CNNs, RNNs, Transformers for real-time and batch inference systems.
 
-- 🗣️ **Natural Language Processing**  
+- **Natural Language Processing**  
   Sentiment analysis, text summarization, and chatbots using LLMs and embeddings.
 
-- 🧱 **Data Engineering for AI**  
+- **Data Engineering for AI**  
   Developing scalable data pipelines that serve as the backbone for AI models.
 
 
 ## Let's Connect
 
-📬 **Email**: deepankarpawar669@gmail.com 
+📬 **Email**: deepankarpawar215@gmail.com 
 🔗 **LinkedIn**: https://www.linkedin.com/in/deepankar98datascience/
 🌐 **Portfolio/Blog**: https://deepankaraiml.netlify.app
     **Youtube**: https://youtube.com/@deepankaraiml?si=d9vWhL7q3u15kv72
