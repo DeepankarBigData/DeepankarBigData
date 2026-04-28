@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm on a mission to build impactful, ethical, and 
 -  **Background** - MBA Finance, PG Diploma in Data Science, B.Tech in Mechanical Engineering
 -  **Core Skills** -   RAG, Multi-agent, Machine Learning, Deep Learning, Data Engineering, NLP, Generative AI.
 -  **Cloud & Tools** - Azure
--  **Experience** -    2.5 years in building AI pipelines in production environments
+-  **Experience** -    3 years in building AI systems and data pipelines in production environments
 -  **Certifications** - Azure AI Engineer Associate
 
 ---
